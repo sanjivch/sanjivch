@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MLOps, D3.js**
 
-- 👨‍💻 All of my projects are available at [sanjivch.netlify.app](sanjivch.netlify.app)
+- 👨‍💻 All of my projects are available at [sanjivch.netlify.app](https://www.sanjivch.netlify.app)
 
 - 💬 Ask me about **Python, Streamlit**
 
