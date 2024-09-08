@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sanjiv Chemudupati</h1>
-<h3 align="center">I'm a chemical engineer turned data scientist</h3>
+<h3 align="center">I'm a ML engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjivch&label=Profile%20views&color=0e75b6&style=flat" alt="sanjivch" /> </p>
 
-- 🌱 I’m currently learning **MLOps and Data Engineering**
 
-- 👨‍💻 My portfolio is available [here](http://sanjiv-chemudupati.netlify.app)
+
+- 👨‍💻 My portfolio is available [here](http://sanjivch.in)
 
 - 💬 Ask me about **Python, Streamlit**
 
