@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sanjiv Chemudupati</h1>
-<h3 align="center">I'm a ML engineer</h3>
+<h3 align="center">I'm an ML engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjivch&label=Profile%20views&color=0e75b6&style=flat" alt="sanjivch" /> </p>
 
 
 
 - 👨‍💻 My portfolio is available [here](http://sanjivch.in)
-
-- 💬 Ask me about **Python, Streamlit**
 
 - 📫 How to reach me **sanjiv.ch09@gmail.com**
 
